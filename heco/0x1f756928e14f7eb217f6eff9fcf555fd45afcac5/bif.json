@@ -1,0 +1,21 @@
+{
+ 
+"name": "Bii-Farmer",
+ 
+"website": "https://bii-farmer.com/",
+ 
+"description": "BIF opens a new era of combination of global blockchain and e-commerce.",
+ 
+"explorer": "https://bii-farmer.com/token/0x1f756928e14f7eb217f6eff9fcf555fd45afcac5",
+ 
+"type": "HRC20",
+ 
+"symbol": "BIF",
+ 
+"decimals": 18,
+ 
+"status": "active",
+ 
+"id": "0x1f756928e14f7eb217f6eff9fcf555fd45afcac5"
+
+}
